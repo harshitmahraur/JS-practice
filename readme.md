@@ -12,11 +12,11 @@ Creates business names from random word lists.
 
 Here I am using Three Words which contains multiple words. 
 
-**First words:** Crazy, Amazing, Fire
+**-First words:** Crazy, Amazing, Fire
 
-**Second words:** Engineering, Foods, Garments
+**-Second words:** Engineering, Foods, Garments
 
-**Third words:** Bros, Limited, Hub
+**-Third words:** Bros, Limited, Hub
 
 Example output: Crazy Foods Bros
 
