@@ -10,6 +10,16 @@ To run it, open `faulty-calculator/index.html` and Click on Go Live(on the botto
 ## Business Name Generator
 Creates business names from random word lists.
 
+Here I am using Three Words which contains multiple words. 
+
+**First words:** Crazy, Amazing, Fire
+
+**Second words:** Engineering, Foods, Garments
+
+**Third words:** Bros, Limited, Hub
+
+Example output: Crazy Foods Bros
+
 To run it, make sure Node.js is installed, then type this in the terminal:
 
 node bussinesname\name.js
